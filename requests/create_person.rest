@@ -1,7 +1,7 @@
-POST https://gentle-falls-96463.herokuapp.com/api/persons
+POST http://localhost:3001/api/persons
 content-type: application/json
 
 {
-        "name": "Anna",
+        "name": "Eduardo",
         "number": "123-123-123-69"
 }
